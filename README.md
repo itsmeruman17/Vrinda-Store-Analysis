@@ -205,3 +205,7 @@ The interactive dashboard ensures continuous monitoring and easy analysis for ma
 ⭐ If you found this project helpful, feel free to connect or provide feedback!
 ## 👩‍💻 Author
 **R. Rumana Akhter**
+
+🔗 GitHub: https://github.com/itsmeruman17  
+🔗 LinkedIn: www.linkedin.com/in/rumana-akhter
+
